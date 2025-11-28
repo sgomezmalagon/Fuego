@@ -78,12 +78,4 @@ for (int actualRow = this.fireHeight - 2; (actualRow > 4); actualRow--) {
 
 No modifiques este bloque a menos que entiendas el efecto de cada constante.
 
-Sugerencias rápidas para pruebas
 
-- Mueve la fuente verticalmente (rowOffset) en pasos pequeños y observa el resultado.
-- Prueba con `manualMask` para confirmar que la máscara funciona antes de depender de la detección automática.
-- Haz copias de seguridad de `Main.java` antes de experimentar con posiciones/anchos.
-
-Contacto
-
-Si quieres, puedo añadir ejemplos concretos en `Main.java` para crear varias máscaras manuales (elipse, rectángulo) y un pequeño selector para alternar entre máscara automática/manual. Pídemelo y lo agrego.
